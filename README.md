@@ -21,8 +21,6 @@ It contains 5 folders:
 
 -cover_album - the album cover.
 
--venv
-
 
 The file requirements.txt shares the packages that are required the project to run.
 

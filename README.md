@@ -4,7 +4,8 @@ This repository contains the creation of a lyrics and album cover generators for
 
 https://www.kaggle.com/datasets/ishikajohari/taylor-swift-all-lyrics-30-albums
 
-
+To access the trained trained model, go to the following link and download the folder "model" to your local repo: https://drive.google.com/drive/folders/1l1QvdMnJVaPHHo1K7Iz-cjmrD4SUywFz?usp=drive_link. 
+ 
 It contains two jupiter notebooks:
 
 -notebook - contains the lyrics generator. It includes preprocessing of the lyrics present in the dataset and fine-tuning GPT2 for Taylor Swifts' lyrics generation.
@@ -15,8 +16,6 @@ It contains two jupiter notebooks:
 It contains 5 folders:
 
 -data - the dataset from Kaggle.
-
--model - where the trained model is stored (not included)
 
 -generated_lyrics - where the generated lyrics are saved.
 

@@ -16,7 +16,7 @@ It contains 5 folders:
 
 -data - the dataset from Kaggle.
 
--model - where the trained model is stores.
+-model - where the trained model is stored (not included)
 
 -generated_lyrics - where the generated lyrics are saved.
 
